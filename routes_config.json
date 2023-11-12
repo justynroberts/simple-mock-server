@@ -1,0 +1,12 @@
+[
+    {
+        "route": "/api/data",
+        "verb": "GET",
+        "response_file": "data_get_response.json"
+    },
+    {
+        "route": "/api/user",
+        "verb": "POST",
+        "response_file": "user_post_response.json"
+    }
+]
