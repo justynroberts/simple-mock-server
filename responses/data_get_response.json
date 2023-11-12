@@ -1,0 +1,5 @@
+{
+    "success": true,
+    "message": "Data fetched successfully",
+    "data": { "id": 1, "name": "Item1" }
+}
